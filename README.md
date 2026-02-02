@@ -10,7 +10,7 @@ pip install lexrank
 Evaluating NLP summarization dialect bias in twitter datasets (AE (AMERICAN ENGLISH) & AAE (AFRICAN AMERICAN ENGLISH)) & HAE (HISPANIC AMERICAN ENGLISH)
 ## DESCRIPTION
 ### BACKGROUND
-Natural language processing (NLP) is a subfield of computer science, linguistics, and AI. Its focus on human and computer language interaction through manipulating and analyzing massive quantities of natural language data aims to understand contents like a regular human. As AI rapidly evolves, considering ethics becomes essential to building responsible systems. 
+Natural language processing (NLP) is a subfield of computer science, linguistics, and AI. Its focus on human and computer language interaction through manipulating and analyzing massive quantities of natural language data aims to understand contents like a regular human. As AI rapidly evolves, considering its ethics becomes essential to building responsible systems. 
 ### FEATURES
 The suggested bias evaluation metric is simple and efficient. It calculates the percentage of the extracted tweets from each dialect that ends up in the summary through the following equation: (the number of tweets from AE or AAE or HAE dataset) divided by (total number of tweets in the summarization).
 ## STEPS
@@ -23,6 +23,6 @@ python3 code.py
 ```
 you can edit input.txt to the file names and sample numbers you want
 ## ACKNOWLEDGEMENT
-Thank you for running our code and feel free to contact us with suggestions.
+Thank you for running our code and feel free to contact us with suggestions!
 ## SUPPORT
-Contact us if you run into any issues or have any questions regarding our research.
+Stuck? Feel free to contact us if you have run into any issues!
